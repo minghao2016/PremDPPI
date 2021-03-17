@@ -2,7 +2,7 @@
 ## About
 <font size=4> 
   
-PremDPPI can identify the mutations that disrupt protein-protein interactions. It can be used for finding mutations which affect protein function. The 3D structure of a protein-protein complex is required for performing the prediction.
+PremDPPI can identify the mutations that disrupt protein-protein interactions. It can be used for finding mutations that affect protein function. The 3D structure of a protein-protein complex is required for performing the prediction.
   
 </font>
 
